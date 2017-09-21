@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <class>
+            <name>王尼玛</name>
+            <sex>男</sex>
+            <age>80</age>
+            <favouite>开车</favouite>
+        </class>
+        <class>
+            <name>陈一发</name>
+            <sex>母</sex>
+            <age>28</age>
+            <favouite>开che</favouite>
+        </class>
+        <class>
+            <name>狗贼叔叔</name>
+            <sex>公</sex>
+            <age>18</age>
+            <favouite>土豪战</favouite>
+        </class>
+    </body>
+</html>
